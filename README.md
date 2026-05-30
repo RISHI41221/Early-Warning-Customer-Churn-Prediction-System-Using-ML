@@ -159,5 +159,5 @@ We could use Hyperparamete Tuning or Feature enginnering methods to improve the 
 
 ### Feedback
 
-If you have any feedback, please reach out at ayushwaghmare119@gmail.com
+If you have any feedback, please reach out at rishigarg525@gmail.com
 
